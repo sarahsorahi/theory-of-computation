@@ -23,16 +23,6 @@ This directory contains the lecture slides written in **LaTeX (Beamer)**.
 Each subfolder corresponds to one major topic or lecture unit:
 
 ```text
-slides/
-├── 00-introduction/
-├── 01-finite-automata/
-├── 02-regular-languages/
-├── 03-context-free-languages/
-├── 04-pushdown-automata/
-├── 05-turing-machines/
-└── 06-chomsky-hierarchy/
-
-
 
 slides/
 ├── L01-introduction/
