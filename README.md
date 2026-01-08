@@ -8,7 +8,7 @@ formal languages, automata, and computability theory. It is primarily based on:
 
 > Michael Sipser, *Introduction to the Theory of Computation*, 2nd Edition
 
-The course follows the progression of the **Chomsky Hierarchy**, moving from
+The course follows the progression of the Chomsky Hierarchy, moving from
 finite automata and regular languages to context-free languages, Turing machines,
 and the limits of computation.
 
@@ -18,7 +18,7 @@ and the limits of computation.
 
 ### `slides/`
 
-This directory contains the lecture slides written in **LaTeX (Beamer)**.
+This directory contains the lecture slides written in LaTeX (Beamer).
 
 Each subfolder corresponds to one major topic or lecture unit:
 
